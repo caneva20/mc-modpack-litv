@@ -18,7 +18,7 @@ litv.mc.caneva20.me
     Link da mockpack:
 
     ```shell
-    TODO!
+    https://litv.nt.caneva20.me/caneva20%20LITV.zip
     ```
 
 5. Abra o modpack 😊 ![launch-game](content/add-server.gif)
