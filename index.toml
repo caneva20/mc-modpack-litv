@@ -3636,6 +3636,11 @@ hash = "506f6217a0ec5eb8b9b25cd37e2820c0117e31e494b7f787db67ba411fa8c2a3"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "e9633b94b7c3d75172d61d3df66781eb666838df29598c3fbcdc17364dc38ba3"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
@@ -3643,6 +3648,11 @@ metafile = true
 [[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "4776e4abecbfb5261e7e52450d94cf6d4d3640657eba06011649412461bdb154"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "1b5e85e89033ad28ad565806264f9aaef4fc7fa8338e486bd8d2b72502b8efdd"
 metafile = true
 
 [[files]]
@@ -3668,6 +3678,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
 
 [[files]]
@@ -3791,6 +3806,11 @@ hash = "9108fb22301933c256888cbb4f33f7889400df1ead7ee92dd31773da49876d85"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
+metafile = true
+
+[[files]]
 file = "mods/edibles.pw.toml"
 hash = "1b72062a2dcd493a6a6feda5db5706e02024be9db726205727feb3f8c8febe73"
 metafile = true
@@ -3853,6 +3873,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-respite.pw.toml"
 hash = "2e87c0d260e4e99193d9bfa22fe1650d057224c5f329631c745e958dfa885c6b"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "a23cd083c19f961223880ce56bc9ce8cba6532d60b012700a1ec64a443d36acf"
 metafile = true
 
 [[files]]
@@ -4348,6 +4373,11 @@ metafile = true
 [[files]]
 file = "mods/simplehats.pw.toml"
 hash = "32ce1ad613ebb7d3b03c015380bcc67bad645e53ea4c8b2669809abf7875363a"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "7863c6ff5c8ee607d67b7f8065904f99a81903f983adc7dca35184e760358993"
 metafile = true
 
 [[files]]
