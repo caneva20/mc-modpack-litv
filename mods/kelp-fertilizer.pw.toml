@@ -1,0 +1,13 @@
+name = "Kelp Fertilizer"
+filename = "kelpfertilizer-1.18.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "700da9b25ce20b28c432e867e9f0e6b451cb6bc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4326095
+project-id = 367598

@@ -1,0 +1,13 @@
+name = "caneva20's Create 1.19 [Forge]"
+author = "caneva20"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2cb315c25fda1a39ca46b9d54f65176a2c9d65900b02c338fa4b392fe32c9d1b"
+
+[versions]
+forge = "40.2.9"
+minecraft = "1.18.2"

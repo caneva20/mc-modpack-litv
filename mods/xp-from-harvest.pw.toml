@@ -1,0 +1,13 @@
+name = "XP From Harvest"
+filename = "XPFromHarvest-1.18.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab9f9e4a982a38545d97a0cefa22d8589628f219"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3707043
+project-id = 289397

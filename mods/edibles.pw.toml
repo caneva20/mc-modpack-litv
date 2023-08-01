@@ -1,0 +1,13 @@
+name = "Edibles"
+filename = "edibles-1.18.2-4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1b5abeedb2b0efd978361a4ca8810e63e28bae5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4397650
+project-id = 374240

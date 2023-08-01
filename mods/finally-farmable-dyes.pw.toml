@@ -1,0 +1,13 @@
+name = "Finally Farmable Dyes"
+filename = "finallyfarmabledyes-1.18.2-1.2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27cfa853bdcd79543d59ac1f0aa17e1cf399ca28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3814922
+project-id = 379957

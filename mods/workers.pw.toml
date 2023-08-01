@@ -1,0 +1,13 @@
+name = "Villager Workers"
+filename = "workers-1.18.2-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "976e61dd0c21c7c925f18a85a7589a3bd91cf591"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3983670
+project-id = 567450

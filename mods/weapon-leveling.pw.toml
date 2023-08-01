@@ -1,0 +1,13 @@
+name = "Weapon Leveling"
+filename = "weaponleveling-1.18.2-1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c4cbda94c966491092847b467eb50419aab865a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4077208
+project-id = 644704

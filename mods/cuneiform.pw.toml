@@ -1,0 +1,13 @@
+name = "Cuneiform"
+filename = "cuneiform-1.18.2-1.3.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a7b5b47b9f837aa91f93c23591ee43fb972f08b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3846638
+project-id = 419176

@@ -1,0 +1,13 @@
+name = "Sapience"
+filename = "sapience-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7a78144e04d5117ebcc8d92f75192cbe0cb94ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4503097
+project-id = 426097

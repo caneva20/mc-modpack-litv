@@ -1,0 +1,13 @@
+name = "Terra Incognita: The Unknown Land"
+filename = "terraincognita-1.18.2-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0c56bf3f575631831881b396248b0443a2f52a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3845228
+project-id = 435386

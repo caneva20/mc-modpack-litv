@@ -1,0 +1,13 @@
+name = "Pioneer"
+filename = "pioneer-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "884ac0533b85cc7e6c855d3eb1d324260b1650fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4018594
+project-id = 661112

@@ -1,0 +1,13 @@
+name = "Nutritional Balance"
+filename = "nutritionalbalance-1.18.2-3.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "332d96126ee3b70dabc55d3ab1eabbdb9dd033aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4620301
+project-id = 448222

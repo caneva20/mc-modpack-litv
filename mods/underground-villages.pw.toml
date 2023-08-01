@@ -1,0 +1,13 @@
+name = "Underground Villages"
+filename = "UndergroundVillages-1.18.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "542ecb0352672f1765c43f5ac40e12cb3004566d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4562837
+project-id = 606989
