@@ -18,7 +18,7 @@ litv.mc.caneva20.me
     Link da mockpack:
 
     ```shell
-    https://litv.nt.caneva20.me/caneva20%20LITV.zip
+    https://github.com/caneva20/mc-modpack-litv/raw/master/caneva20%20LITV.zip?download=
     ```
 
 5. Abra o modpack 😊 ![launch-game](content/add-server.gif)
