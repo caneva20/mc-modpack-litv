@@ -4422,30 +4422,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-boss-bars.pw.toml"
-hash = "05f13edc4c1b82440b3605dce296bbd489033c8c771d2a76342bff5f2cb0b417"
+hash = "d8b9a1e9850876a0daf2ef6bf1ea9c7187c96c584b610daabb488df76b1d3137"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-gui-overhaul.pw.toml"
-hash = "bebd96537b09497825807ae0bfac9502b0ce7fd8270274930f5228368812abcf"
+hash = "ced58bfd5f7ac34f20de689ae61f3297a26deeedfca12981574d8134c73ca633"
 metafile = true
-
-[[files]]
-file = "static/Fancy Boss Bars v0.1.1.zip"
-hash = "68c1442e5fb81f1ba1c95fa61a67656efa5241139474ad91642ae9fab6985b67"
-
-[[files]]
-file = "static/Fancy, GUI Overhaul v0.1.2.6.zip"
-hash = "21a5d3ed036cec177062f8ec0de79d847fd7c2aeb9c41ee2243e61a48c7116f8"
-
-[[files]]
-file = "static/XPFromHarvest-1.18.2-1.2.2.jar"
-hash = "b03d5d76d4455b44503863694e8787efb376b2c29a5dc8f6be4e06b12dd7efad"
-
-[[files]]
-file = "static/jobsplus-1.18.2-0.8.2.jar"
-hash = "8db1e4c3a86263771834026dcf0e0e02109d3aa45a8d319613d82d8b0d2168d6"
-
-[[files]]
-file = "static/nocube's_villagers_sell_animals_1.2.0_forge_1.18.2.jar"
-hash = "192372e37d265b01c4320b1a9950741f0dc7c5762b1e82bea5f1c18b66baf55d"
