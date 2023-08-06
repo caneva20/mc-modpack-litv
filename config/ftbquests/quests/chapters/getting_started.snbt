@@ -96,7 +96,7 @@
 			x: 1.5d
 			y: 0.0d
 			subtitle: "Make yourself at home!"
-			dependencies: ["6CC45B856CF1EC09"]
+			dependencies: ["54A2FF358B113724"]
 			id: "0000000000000011"
 			tasks: [{
 				id: "0000000000000012"
@@ -2507,64 +2507,6 @@
 			}]
 		}
 		{
-			title: "Tinkers Workshop"
-			icon: {
-				id: "tconstruct:part_builder"
-				Count: 1b
-				tag: {
-					texture: "minecraft:oak_planks"
-				}
-			}
-			x: -0.75d
-			y: 0.0d
-			shape: "gear"
-			subtitle: "Head over to Tinkers Workshop chapter to learn more about tools creation!"
-			dependencies: ["54A2FF358B113724"]
-			size: 1.5d
-			id: "6CC45B856CF1EC09"
-			tasks: [
-				{
-					id: "38AB1D106E1A1027"
-					type: "item"
-					item: {
-						id: "tconstruct:part_builder"
-						Count: 1b
-						tag: {
-							texture: "minecraft:oak_planks"
-						}
-					}
-				}
-				{
-					id: "57466DB0837B8C68"
-					type: "item"
-					item: "tconstruct:pattern"
-				}
-			]
-			rewards: [
-				{
-					id: "5B78F93A06EBEB8D"
-					type: "item"
-					item: {
-						id: "tconstruct:materials_and_you"
-						Count: 1b
-						tag: {
-							mantle: {
-								book: {
-									current_page: "intro.partbuilder"
-								}
-							}
-						}
-					}
-				}
-				{
-					id: "36B2D29BE1DA6025"
-					type: "item"
-					item: "minecraft:apple"
-					count: 3
-				}
-			]
-		}
-		{
 			x: 6.0d
 			y: 3.0d
 			dependencies: ["000000000000003F"]
@@ -2810,29 +2752,6 @@
 					id: "1528A1AAA7138657"
 					type: "item"
 					item: "aquaculture:treasure_chest"
-				}
-			]
-		}
-		{
-			x: 11.5d
-			y: 1.5d
-			dependencies: ["0000000000000045"]
-			id: "21A61D81B15F6C3B"
-			tasks: [{
-				id: "6E02C7ECB542343A"
-				type: "item"
-				item: "tconstruct:diamond_item_frame"
-			}]
-			rewards: [
-				{
-					id: "6CFD0161011D1C86"
-					type: "item"
-					item: "aquaculture:treasure_chest"
-				}
-				{
-					id: "38D5AED0C56BDB14"
-					type: "item"
-					item: "kubejs:iron_coin"
 				}
 			]
 		}

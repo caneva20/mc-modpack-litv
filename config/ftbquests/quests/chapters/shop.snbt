@@ -1,7 +1,7 @@
 {
 	id: "0000000000000579"
 	group: ""
-	order_index: 6
+	order_index: 4
 	filename: "shop"
 	title: "$ - COIN SHOP - $"
 	icon: "kubejs:gold_coin"
@@ -587,56 +587,6 @@
 			}]
 		}
 		{
-			icon: "buddycards:buddysteel_block"
-			x: -2.0d
-			y: 5.0d
-			id: "665A83F8FD6E2A4E"
-			tasks: [
-				{
-					id: "496B91089ED73628"
-					type: "item"
-					disable_toast: true
-					item: "buddycards:buddysteel_block"
-					consume_items: true
-				}
-				{
-					id: "34546D65DFF46E3F"
-					type: "xp"
-					value: 10L
-					points: false
-				}
-			]
-			rewards: [{
-				id: "46A0D9F444C5CEE9"
-				type: "questsadditions:repeat_choice"
-				table_id: 5362484379163422117L
-			}]
-		}
-		{
-			icon: "tconstruct:cobalt_block"
-			x: -2.0d
-			y: 3.0d
-			id: "6CF9E53F3D8F13B4"
-			tasks: [
-				{
-					id: "1C1C7852ADB98172"
-					type: "item"
-					item: "tconstruct:cobalt_block"
-				}
-				{
-					id: "0A0A23B1F98A3B1D"
-					type: "xp"
-					value: 10L
-					points: false
-				}
-			]
-			rewards: [{
-				id: "1FB2DC911D85D58F"
-				type: "questsadditions:repeat_choice"
-				table_id: 5362484379163422117L
-			}]
-		}
-		{
 			icon: "aquaculture:neptunium_block"
 			x: 2.5d
 			y: 4.0d
@@ -658,32 +608,6 @@
 			]
 			rewards: [{
 				id: "42DA5BCF2A82F413"
-				type: "questsadditions:repeat_choice"
-				table_id: 4173479592353618945L
-			}]
-		}
-		{
-			icon: "tconstruct:manyullyn_block"
-			x: 1.5d
-			y: 4.0d
-			id: "2B84E8DA44358BA6"
-			tasks: [
-				{
-					id: "11BF4247BBE7355B"
-					type: "item"
-					disable_toast: true
-					item: "tconstruct:manyullyn_block"
-					consume_items: true
-				}
-				{
-					id: "718A6DB4C30043B3"
-					type: "xp"
-					value: 10L
-					points: false
-				}
-			]
-			rewards: [{
-				id: "0338D0DCD1D8307B"
 				type: "questsadditions:repeat_choice"
 				table_id: 4173479592353618945L
 			}]

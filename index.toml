@@ -1014,15 +1014,11 @@ hash = "645467aa8591f33581d47716f10591a43215cb06b07d407fec4ad1343b569347"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/a_reliable_friend.snbt"
-hash = "701e30fd4811a279ee99bb692867a2d7ee59934459769cffdf271fbf6cd4ed37"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/card_collector.snbt"
-hash = "9bca0923cfb9edf1d4abad431f39e306d46c67c5426af1b57c25519e56bba62b"
+hash = "d8e513e6321ec8234c644f1ea692ed894b9ebd09253effc83e960581bdfe4366"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "71a1606689f0386ab8a82e774629ab3646ea88eecb39f1135bcf4f3175d14fa0"
+hash = "8d6b6f1690da63628514ab4c56f6e244298cdc299b6b4becd36f9f28eccc0a31"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farming.snbt"
@@ -1030,27 +1026,19 @@ hash = "f32584426a90b50c634e2f0b7323e1d19e77f23443e434ace474afa2268a4202"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/getting_started.snbt"
-hash = "43969f0a2a1c1d4d6c9a2f4c436c57367f6b939949a0a4e31e932866398af32a"
+hash = "bc2b9d26ab08e68dcb17420e4871a9a65fe57b9f429346cd87cb3f68b0d7afce"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/honey.snbt"
 hash = "d7f64819bfebbd01c9e6026c0b099bf23494c4927942094582f924579ee63a9c"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/little_logistics.snbt"
-hash = "5cd32a33bcafb7c984c54dbfd7b18d7397c9546d6339f375c83872099ac66c46"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/my_colony.snbt"
-hash = "0f8364f6f94ab4a25f1bc81abb3dc455c5c78466684edf37a38324aa67097e07"
+hash = "2d71b36e311e1b3f678b7e46727a2514f4afac61875369966c922c93f0fc0a4b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/nether_exploration.snbt"
 hash = "14f45ea591b49a4674768bd473bf070912bbefe1eccbc39d3bee2b03e808335c"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/nomad.snbt"
-hash = "0acf8d1af7aff6bdf73c215351fcd2fecff20178ffc4e54cdab133bf780ad645"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/not_enough_food.snbt"
@@ -1062,7 +1050,7 @@ hash = "7dd9006a471dd033d5343b3b09ba246c28420a9b4e69923ec2781af1ff71944c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/playtime_rewards.snbt"
-hash = "bde9dac0834691049715459732394504e28ec04814d258de2532cc9c0630effa"
+hash = "2af7c7725ed96d638b1f9b0ea4237b3700f67b871036b2b6b60ab42d801bb99d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/reborn_of_the_end.snbt"
@@ -1070,23 +1058,15 @@ hash = "8cb6bc1d8c2a8dc60b891f7aa51be21011c6a3dc9c8b9974efc6e524f5eba43d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shop.snbt"
-hash = "c5741e89fdd2eaa633f7ece00455feb42211ae63b30e436b1dfdb4ad0b3ead6e"
+hash = "bf17987ab5eb312aafc61c2d9b710b3222626d9177a0db472d553b027b4e40f6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/simple_storage.snbt"
-hash = "29b20d62dc32e79ceb0dd2e14adbf3d73a7692d901921ee94341ef8c00147c30"
+hash = "d1b570aad927db0f3b614d61174928c15e3affaa8199f550c588b7a4bf51c2a8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/somedecorationrequired.snbt"
-hash = "64a290a6ff84b5588d6cb3adeaca959553844bec9c6e161f176f8135aa102135"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/the_patreon.snbt"
-hash = "2d5ef6ddae5844d0d1dfaa7143354b30f1de342e6ea2803f1c26df50d58467a8"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/tinkers_workshop.snbt"
-hash = "1331345229e63bdbaae6923b6c7e766a6f7145a8042a6a0063b477d7496f3da7"
+hash = "5e63da4ae66defb0132ab21b0c74adfe8ca50a953f1412613e9c0fb19ff35c4e"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
