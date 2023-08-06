@@ -1,13 +1,7 @@
-name = "NoCube's Villagers Sell Animals"
+name = "villagers-sell-animals"
 filename = "nocube's_villagers_sell_animals_1.2.0_forge_1.18.2.jar"
-side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e30e681c0ce851297859d4af57dfc775a8d3ee82"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4454533
-project-id = 664014
+url = "https://litv.nt.caneva20.me/static/nocube's_villagers_sell_animals_1.2.0_forge_1.18.2.jar"
+hash-format = "sha256"
+hash = "192372e37d265b01c4320b1a9950741f0dc7c5762b1e82bea5f1c18b66baf55d"

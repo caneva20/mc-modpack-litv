@@ -1,13 +1,7 @@
-name = "Fancy Boss Bars"
+name = "fancy-boss-bars"
 filename = "Fancy Boss Bars v0.1.1.zip"
-side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "1e61da2454a0fc606edaf1270d34abbe3ac02dee"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3771244
-project-id = 618600
+url = "https://litv.nt.caneva20.me/static/Fancy Boss Bars v0.1.1.zip"
+hash-format = "sha256"
+hash = "61937e4a5ce2ffeedff75464ec08d25b699291e126f9e663056fb518e5857943"

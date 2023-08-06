@@ -1,13 +1,7 @@
-name = "Jobs+"
+name = "jobsplus"
 filename = "jobsplus-1.18.2-0.8.2.jar"
-side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b4f7f28ebb915e14bbbd6079165e51e2fb8b3df1"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4088655
-project-id = 535061
+url = "https://litv.nt.caneva20.me/static/jobsplus-1.18.2-0.8.2.jar"
+hash-format = "sha256"
+hash = "8db1e4c3a86263771834026dcf0e0e02109d3aa45a8d319613d82d8b0d2168d6"

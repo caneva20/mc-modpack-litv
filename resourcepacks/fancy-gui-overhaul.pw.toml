@@ -1,13 +1,7 @@
-name = "Fancy: GUI Overhaul"
+name = "fancy-gui-overhaul"
 filename = "Fancy, GUI Overhaul v0.1.2.6.zip"
-side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "6dfb8d9eb597726be992e4d419c4e9ed28ba4959"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4018354
-project-id = 620903
+url = "https://litv.nt.caneva20.me/static/Fancy, GUI Overhaul v0.1.2.6.zip"
+hash-format = "sha256"
+hash = "bfed1cbf826d830393776fa22271d35e19c30e59ed5d5cd0aab445558cd85c1e"
