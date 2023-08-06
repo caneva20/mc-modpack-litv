@@ -3486,6 +3486,11 @@ hash = "6d3d349f02c4ffd6a8252db88e6168f9037601660a73fd282c4203a199e9997e"
 metafile = true
 
 [[files]]
+file = "mods/art-of-forging-a-tetra-addon.pw.toml"
+hash = "7e0d1d8e98ad85f2c65bcd193e125bc04720565ab0dea9cbd5be537c15a7b17d"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "3221c919927b9e177d138d76187442b7794fcf89c4b58af8015352f1174ea6d1"
 metafile = true
@@ -3608,6 +3613,11 @@ metafile = true
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "3a8d358a588c207aef11b3205dad09bdb81aac0da6cbd8b0529eb4a756ce0ea2"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight-forge.pw.toml"
+hash = "4cd381b0b1c9b7b1b97496db147873ef74aed4091911ef842532aed3a96745f0"
 metafile = true
 
 [[files]]
@@ -3828,6 +3838,11 @@ metafile = true
 [[files]]
 file = "mods/enlightend.pw.toml"
 hash = "10e7d749280c159a15044956d1b3f0ea4d83f3c21a26176efa3b87661fa9a113"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
 metafile = true
 
 [[files]]
@@ -4113,6 +4128,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "d5df32b81d9ddd8863e66c8f02952355428f793cf6b0d5386b7ef1038f9ae333"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "6f0cb24635cc0acbf3d003d597d749408b4b9438e2ad61a1a7c66414db3331e0"
 metafile = true
 
 [[files]]
