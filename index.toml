@@ -4166,6 +4166,11 @@ hash = "6c95a0ebe41226922cf1cc6cc5f90911deb2e3e5759d35c6f61746968f6742a7"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
@@ -4393,6 +4398,11 @@ metafile = true
 [[files]]
 file = "mods/terraincognita.pw.toml"
 hash = "1700cd67d95e81c058ca9b5d06fdd3afb340d9c636238df54e168a6451682178"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "3b10e784cad870859f46e991531324be20b73e7ee83c60b8b18c60a1ecfe0412"
 metafile = true
 
 [[files]]
