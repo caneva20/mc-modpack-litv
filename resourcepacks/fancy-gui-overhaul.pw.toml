@@ -1,7 +1,7 @@
 name = "fancy-gui-overhaul"
-filename = "Fancy, GUI Overhaul v0.1.2.6.zip"
+filename = "fancy-gui-overhaul-v0.1.2.6.zip"
 
 [download]
-url = "https://litv.nt.caneva20.me/static/Fancy, GUI Overhaul v0.1.2.6.zip"
+url = "https://litv.nt.caneva20.me/static/fancy-gui-overhaul-v0.1.2.6.zip"
 hash-format = "sha256"
 hash = "bfed1cbf826d830393776fa22271d35e19c30e59ed5d5cd0aab445558cd85c1e"

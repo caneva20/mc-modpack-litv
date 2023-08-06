@@ -4337,7 +4337,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagers-sell-animals.pw.toml"
-hash = "8440fe6c1f2e69c5e5b1cdb55e5d855d64904bcab5308287a566ddd035768c32"
+hash = "459d747ebb06c69855d0ec7ca6da65c002a67b9de35daddecc35dd7a01bcaa4a"
 metafile = true
 
 [[files]]
@@ -4422,12 +4422,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-boss-bars.pw.toml"
-hash = "b2359c99a2f30fc191dd8ddc0680073c752627f93caeb08f30110da9e46b2df0"
+hash = "05f13edc4c1b82440b3605dce296bbd489033c8c771d2a76342bff5f2cb0b417"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-gui-overhaul.pw.toml"
-hash = "fed456d46e3abc906ba167570f9ad4342117640a090cf3fa1e071994d253a33a"
+hash = "bebd96537b09497825807ae0bfac9502b0ce7fd8270274930f5228368812abcf"
 metafile = true
 
 [[files]]
