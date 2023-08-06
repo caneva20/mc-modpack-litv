@@ -3365,7 +3365,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-third-person.pw.toml"
-hash = "d6294e2ed61a091a703aebff39c09e90a30e109c5b65dc9f6f51db82a8b27ca6"
+hash = "df45eae53a75cbef0d110df333b42e76f7ccafef962b1263cb39927ea40a166a"
 metafile = true
 
 [[files]]
@@ -3405,7 +3405,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "8614a548dcf88638360bac9aad937286937f87e8ee157c7348387ef81ec51ef0"
+hash = "ba01e65f58fa0a9c56fdc580ff6a4cf1addc7862d93fba6d39e40e83f4679e93"
 metafile = true
 
 [[files]]
@@ -3570,7 +3570,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e4d2d558f3a44c059788554b6394c126d2993be30c8649da92fabb8fd2e4623f"
+hash = "36217218d7336e59ae18b3b8e0acb37c9d4a432d889a1808840012b7c9d92a42"
 metafile = true
 
 [[files]]
