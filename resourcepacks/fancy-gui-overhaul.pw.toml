@@ -1,6 +1,6 @@
 name = "Fancy: GUI Overhaul"
 filename = "Fancy, GUI Overhaul v0.1.2.6.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

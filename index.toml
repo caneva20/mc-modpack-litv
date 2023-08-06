@@ -3735,7 +3735,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "0cf54d183070a010dd189fd15b4e6e2c04cd1df5c41cfe3f3574c9d3ec07c413"
+hash = "97aaea2c08629390787d6fc9edbf26dd27be9f782ad43ec0a1818f43fc3c8525"
 metafile = true
 
 [[files]]
@@ -4485,10 +4485,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-boss-bars.pw.toml"
-hash = "41870f83dd2fbf6637e5cf863c812d99915fa53f594196535e71791dc56c0632"
+hash = "a8bcdcfae769f1febf85fa527afc231838dc1012d82183ff80d5f5e519b37412"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-gui-overhaul.pw.toml"
-hash = "bfffa5090021b17ba580ca579ce703da666368be8a24ab350980c925fcc61a46"
+hash = "887433f5189ef0e4d5005c186ad9e081639f7fec136ec315e0a183bbb20605da"
 metafile = true

@@ -1,6 +1,6 @@
 name = "Fancy Boss Bars"
 filename = "Fancy Boss Bars v0.1.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
