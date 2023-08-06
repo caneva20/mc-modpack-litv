@@ -3911,11 +3911,6 @@ hash = "d02c52c31914afced47b4af8acf601409cb0a1efbe2ff62411b227eb18300e48"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "29b2ade4ba6df522f465f19876a1a16fea668970160a02c66b6a6a272ac9519f"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "934fef6cf30a00fd29c8e05631a45fafad0e3ed0fd237d0d0c1c98816c7e4820"
 metafile = true
@@ -4198,6 +4193,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "fdab80c3ce0b30a2ca0c45d2a83e7687fa90e6873472208f1fceb1b348000cb5"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "05267999544c9026926f1f8e3bd4f615dee457ab336cf9c612cd7d98c8547af8"
 metafile = true
 
 [[files]]
