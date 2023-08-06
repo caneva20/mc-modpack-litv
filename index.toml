@@ -4094,6 +4094,11 @@ hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
 metafile = true
 
 [[files]]
+file = "mods/nomadic-tents.pw.toml"
+hash = "a9feac8a1a97164481d341e65784947e0946bb01189798b2fa1016c5ed84cf06"
+metafile = true
+
+[[files]]
 file = "mods/nutritional-balance.pw.toml"
 hash = "6466b215f41e16381e51aed0e769dbb76a2d9fe2957f7b3f37340561cd695acd"
 metafile = true
