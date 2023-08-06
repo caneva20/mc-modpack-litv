@@ -3970,12 +3970,12 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "2eb08ed9ad96652c2da67e9faf59fc7332436e14587417d3de1ad0fb8376db37"
+hash = "4bd9e409af22a8c79c767378e69e614f81d9267045cd80964660f06bd402c13d"
 metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "b4b6828ba835038615eb2ee91d8b1eaeef53687952bf89769c680854d7dba63f"
+hash = "8acba14a9f60a78688848ced337b2eccf428f25d0ad327ebc1f22ca84b9db57e"
 metafile = true
 
 [[files]]
@@ -3985,7 +3985,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-beams.pw.toml"
-hash = "da821cfb91ce57f5e7bba143c29dd5c04cca6f7d9ecab3139f8c364fc59f8ef9"
+hash = "5c045949b14f275f13d475f8d8b86169c8b6cee27354983fb642aa312d400b00"
 metafile = true
 
 [[files]]
@@ -4085,7 +4085,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "7f8fb189da26a16846035e53160df719b0fd6865d2d7b1463c06b1066ca0447f"
+hash = "3dadff840fcabc1727c7cc16a814ae9863f751c46907593aefcb110eed079dd4"
 metafile = true
 
 [[files]]
@@ -4315,7 +4315,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "4216e196eff2f3e569417ec0fd3ffb5ba0d5e4a6818837d9eba6eb9c82d21691"
+hash = "987fa3b3d23ec22b1f4c7fcd2511a8de45e875679ed61c3ca75ac568841b0d03"
 metafile = true
 
 [[files]]
@@ -4480,7 +4480,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "e05fe3188413b8e63d8792d3be431e45f41ea2881300afd5f3da81a113606641"
+hash = "4625b47bc35ca8d03c372d5153572c1a0d0baa44147a6e83107de967753ecf5b"
 metafile = true
 
 [[files]]
