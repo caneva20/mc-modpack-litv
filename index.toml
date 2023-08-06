@@ -3645,7 +3645,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar-forge.pw.toml"
-hash = "3f2660fd2fb03d8bf677c932d6f8a630f5fa4df17bf9f88b764bbe362a0c0b3d"
+hash = "553ea26fa06c17148f9906484f987dbb38846e26de1fad7110319ee033ce75dc"
 metafile = true
 
 [[files]]
@@ -4100,7 +4100,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "fdab80c3ce0b30a2ca0c45d2a83e7687fa90e6873472208f1fceb1b348000cb5"
+hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
 metafile = true
 
 [[files]]
@@ -4335,7 +4335,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.pw.toml"
-hash = "0f1512b797ce79834078161cea88a1a63f76c869f8e20c6064f8c5f74eec24e2"
+hash = "1f24411dd8081249aaf0fb8a9e9c524849cfe8e2b4f4588114f0ff4f9c64c2a5"
 metafile = true
 
 [[files]]
