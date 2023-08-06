@@ -3509,6 +3509,11 @@ hash = "e9633b94b7c3d75172d61d3df66781eb666838df29598c3fbcdc17364dc38ba3"
 metafile = true
 
 [[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "79327710bcb10023327b53169c3015632539c3c71ad62d7aa40129a8cfaa60d5"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
