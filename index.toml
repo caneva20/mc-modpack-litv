@@ -4179,6 +4179,11 @@ hash = "f8f4265f53db88e5cedd7494076d499154c4d594567f80288d7507b3d387a970"
 metafile = true
 
 [[files]]
+file = "mods/randomite-classic.pw.toml"
+hash = "691eac49a5f38765972e8540f5a0f8bc9b9672beab55eeecdd729b18873f5fa6"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
