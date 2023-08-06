@@ -481,10 +481,6 @@ file = "config/breezy-client.toml"
 hash = "aff967d874ec474229354207933f3e3d51b44971d6b020f0419592600b2caf81"
 
 [[files]]
-file = "config/buddycards-common.toml"
-hash = "34654eeb67c842b9d770fae9c3c5c77213f7523cc83a8dfd0ba411ac74fb466a"
-
-[[files]]
 file = "config/buildersaddition-common.toml"
 hash = "e76f7334e7d8b7ea595c9bdca6192009798666200105e0284c9c210d8e2568b5"
 
@@ -537,16 +533,16 @@ file = "config/clickadv-common.toml"
 hash = "3b8b3eaea923506879392cf068bb4fbdd01cbbd0f0160eedd0b4f04a25f45ae5"
 
 [[files]]
-file = "config/client_data/byg/biomepedia.dat"
-hash = "a25a238012452d13f589e4168bea258ebcaee157fa9dbe415ef3df4ccb5f5597"
-
-[[files]]
 file = "config/cmdcam-client.json"
 hash = "4cc716ae09fdccf228bb27be8bda41b892692a8835269788068c684e8d15f5c9"
 
 [[files]]
 file = "config/collective.json5"
 hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
+
+[[files]]
+file = "config/collectorsalbum.yaml"
+hash = "bef5ae03e1b5d2069ede2fd92220540812515239cc3d77e788d431dabef5f289"
 
 [[files]]
 file = "config/configured-client.toml"
@@ -603,10 +599,6 @@ hash = "3ef66188c4bc213363455f40a4a7b3c873062b4b4f478b8e0fe9e31eb6c47d71"
 [[files]]
 file = "config/curios-client.toml"
 hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
-
-[[files]]
-file = "config/daily_rewards-common.toml"
-hash = "3a9e9076eaf723ab0b7903f2bb6ed4e6e59ae5d6084db1d7c78dd3714869b1c0"
 
 [[files]]
 file = "config/decorative_blocks-common.toml"
@@ -683,62 +675,6 @@ hash = "3356ba7b68079927ace95c533f3bf4c1caadf6e3c52276280225c49b380451f7"
 [[files]]
 file = "config/enchdesc.json"
 hash = "3707b94c4e2b2d7209c388363d6de399e2c5aa035f086f219021da7e0cb3b96b"
-
-[[files]]
-file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-blood_moon.json"
-hash = "d3b2e61741db3161f0d8265017856197ac09d0eceee24fc78f829a5d81203b37"
-
-[[files]]
-file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-blue_moon.json"
-hash = "98ad7bb01aaf987ca0f59fe087b5f6066e1e30672687f38347a7d97fa1da3703"
-
-[[files]]
-file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-harvest_moon.json"
-hash = "35d8d054d3f03d8225605d7bd75131368cf4cbceff44d4367557b0295b4f7c01"
-
-[[files]]
-file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_blood_moon.json"
-hash = "f89411dbb26f12fe55b729b7ed89898390940ab270e93719a1a8d75274077e9b"
-
-[[files]]
-file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_blue_moon.json"
-hash = "fe201e8bb22a6b468ccd419486d8264d934af3bec6c6032ad45fc1b96059c11f"
-
-[[files]]
-file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_harvest_moon.json"
-hash = "b6d6a57fa02f83640af7046f624761b2c1257064bfd6462ac7d16eea62d2a121"
-
-[[files]]
-file = "config/enhancedcelestials/minecraft/overworld/lunar/lunar-settings.json"
-hash = "624152f35bf530bf324aaad516ef71d2bcc0d709a3aecf968e2482841dfd8b37"
-
-[[files]]
-file = "config/enhancedcelestials/nomadictents/acdccf7a-f330-4831-af78-aa03ae4cc163/lunar/events/enhancedcelestials-blood_moon.json"
-hash = "e77d26a630d4e71ff8a329f60fe35e4878fe77474fcbf5509b19d67f099e7e54"
-
-[[files]]
-file = "config/enhancedcelestials/nomadictents/acdccf7a-f330-4831-af78-aa03ae4cc163/lunar/events/enhancedcelestials-blue_moon.json"
-hash = "98ad7bb01aaf987ca0f59fe087b5f6066e1e30672687f38347a7d97fa1da3703"
-
-[[files]]
-file = "config/enhancedcelestials/nomadictents/acdccf7a-f330-4831-af78-aa03ae4cc163/lunar/events/enhancedcelestials-harvest_moon.json"
-hash = "35d8d054d3f03d8225605d7bd75131368cf4cbceff44d4367557b0295b4f7c01"
-
-[[files]]
-file = "config/enhancedcelestials/nomadictents/acdccf7a-f330-4831-af78-aa03ae4cc163/lunar/events/enhancedcelestials-super_blood_moon.json"
-hash = "2d3183ea5694756124c488bba3321f943221d90158229c1caa14a506c33b7c81"
-
-[[files]]
-file = "config/enhancedcelestials/nomadictents/acdccf7a-f330-4831-af78-aa03ae4cc163/lunar/events/enhancedcelestials-super_blue_moon.json"
-hash = "fe201e8bb22a6b468ccd419486d8264d934af3bec6c6032ad45fc1b96059c11f"
-
-[[files]]
-file = "config/enhancedcelestials/nomadictents/acdccf7a-f330-4831-af78-aa03ae4cc163/lunar/events/enhancedcelestials-super_harvest_moon.json"
-hash = "b6d6a57fa02f83640af7046f624761b2c1257064bfd6462ac7d16eea62d2a121"
-
-[[files]]
-file = "config/enhancedcelestials/nomadictents/acdccf7a-f330-4831-af78-aa03ae4cc163/lunar/lunar-settings.json"
-hash = "624152f35bf530bf324aaad516ef71d2bcc0d709a3aecf968e2482841dfd8b37"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -1333,18 +1269,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "bcc920952c8e91c8c712675dbe95f4356408b2c6e30642871b13fb5d6fbe1f9d"
 
 [[files]]
-file = "config/jei/world/local/New_World-1_1/bookmarks.ini"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/world/local/New_World5-tinkers/bookmarks.ini"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/world/local/New_World6-biome/bookmarks.ini"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/kleeslabs-common.toml"
 hash = "8d866e7fde59b075a16838cd0b4b54a48c22e795163361999a19f7a7b975a3f9"
 
@@ -1371,14 +1295,6 @@ hash = "621fa10d5516efca2f718891231e4464443c9db83166589970589ba61889220d"
 [[files]]
 file = "config/lightoverlay.properties"
 hash = "88372e9eee5d21754b83cf7ce9362d18d37c620ce6c12fd3c12102d058f3dd4b"
-
-[[files]]
-file = "config/littlelogistics-client.toml"
-hash = "3cfdf5367f882dd8ccf67c03df5fb35d36699da64ada3ddb0bd05ceaa5b3aaea"
-
-[[files]]
-file = "config/littlelogistics-common.toml"
-hash = "6c5e9af21fa51ccba3bab0eece27a2d3728c2a84d621cb16e5cefbed459d3563"
 
 [[files]]
 file = "config/logprot-common.toml"
@@ -2698,7 +2614,7 @@ hash = "6de5cf46a4d946fcbab1884cea1c04977741e64723199b8d7565b492d692d05f"
 
 [[files]]
 file = "config/vtweaks-common.toml"
-hash = "d878e172842b5e3df5dd953457ccfcf5c5bfba9df890064d74777470f78135d5"
+hash = "db98a2dac5b79b80db66071bec00a9e5f609531d61866517cc066bd42a8bc10d"
 
 [[files]]
 file = "config/waterstrainer/waterstrainer_loottables.txt"
@@ -3303,10 +3219,6 @@ hash = "c54ef183edc3bd8eb01c23793e2f8deb8d56f293a74616fee3771a197cf69335"
 [[files]]
 file = "kubejs/startup_scripts/script.js"
 hash = "8b4d64a32de3c65c5d97c01a2b2e2567020fa9c9e713eaf9eaa277bd0b559c38"
-
-[[files]]
-file = "local/ftbchunks/client-config.snbt"
-hash = "ae59b94223e377dc36bb3d42ae67215406ce175957ca1032a4bd2f5e819ce5de"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
