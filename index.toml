@@ -4424,6 +4424,11 @@ hash = "be41a346521c56f775f9eb8c20301b7a334d96582f77947e9e659e8d3a478e66"
 metafile = true
 
 [[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "40e1001a1bbb46360e12ba9dc1dd6683bb53dba75faa63434bcfbbb8df6303b1"
+metafile = true
+
+[[files]]
 file = "mods/water-strainer.pw.toml"
 hash = "563b1f860076b104c8018d651a73ecc05af8327fcc63b3ac06c7c7bf6845b9b5"
 metafile = true
