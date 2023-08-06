@@ -3661,8 +3661,18 @@ hash = "451f507d32dc9a67ae45022e8cb3c422e2ca9da2a7f15859959b758862ae61ba"
 metafile = true
 
 [[files]]
+file = "mods/collectors-album.pw.toml"
+hash = "d3a4efa354699839cf39bd969550209872fb02f018570b85c20a964ed7099728"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "26a174a078be4f8c995515972263d71322aae276d8cd5acb49337e55ff86c06f"
+metafile = true
+
+[[files]]
+file = "mods/configuration.pw.toml"
+hash = "1bc33fdd40500f0750db90679833ff7ba0c13fe7da487e94181d1093a61a2d8a"
 metafile = true
 
 [[files]]
