@@ -4065,7 +4065,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f2fbef8755943a9d613684a5ac705490c636a9752a22186709762e013e17d83e"
+hash = "6cab31e3fb3ecfc37c406ab84bb0d7a499904dbdb21c501ab3ca3573ce373a16"
 metafile = true
 
 [[files]]
@@ -4200,7 +4200,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "dc1ace4b702d5953b4ff5aac59572a9fc03d077aee3c0d407db17a8f768f5268"
+hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
 metafile = true
 
 [[files]]
@@ -4240,7 +4240,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-storage-network.pw.toml"
-hash = "94574626f381bddf5eb7fcad8e0103226d9b4ad92b680ea809acb822c8a36c85"
+hash = "f4da4b740dca419035de12a24fb60689f89472b42f009a188d633fae2154a9eb"
 metafile = true
 
 [[files]]
@@ -4330,7 +4330,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "d9502341fa600fa326bed44c420aef657638b15f1093caeeba6776301cf83f93"
+hash = "4216e196eff2f3e569417ec0fd3ffb5ba0d5e4a6818837d9eba6eb9c82d21691"
 metafile = true
 
 [[files]]
@@ -4445,12 +4445,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0d8e5fe79231a14ce186a0bd7fe3e77561da9df7f18e499b9870c88dc49d7501"
+hash = "08a8444119528e654a96a8cc2375c910071caffc44ccc0d0c396d244f920178d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0697d41e8984b12171bbfbd50f16291676c595aee78c4d13d5b1f4ee29d1d492"
+hash = "3530c4c4d746e00e7ded837c0a0099d2e19086e62007b29d8cd40072026882ee"
 metafile = true
 
 [[files]]
