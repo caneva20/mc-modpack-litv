@@ -4422,10 +4422,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-boss-bars.pw.toml"
-hash = "d8b9a1e9850876a0daf2ef6bf1ea9c7187c96c584b610daabb488df76b1d3137"
+hash = "8e1fa6841bf153ecc0c992d53c32af13e51b91a8386033f0c5958b53b4c8e131"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-gui-overhaul.pw.toml"
-hash = "ced58bfd5f7ac34f20de689ae61f3297a26deeedfca12981574d8134c73ca633"
+hash = "6f929bad6965c5eae174f03b3528f8f6bae8579ce3cedcb74050235d41a3e609"
 metafile = true
