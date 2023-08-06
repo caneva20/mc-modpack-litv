@@ -4329,6 +4329,11 @@ hash = "19ca3ddc82706120fb91f5e4495f903c3bc247e41baab65a6cd04181e43be083"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "5beb03d52b7e600050191fca1694eae3d70622a3f02f9cf423bf8fcd4f5f6d26"
+metafile = true
+
+[[files]]
 file = "mods/titles.pw.toml"
 hash = "3626acb3773381bd1a00f62d6d1e6a47d1db28e5bdab38be86b6e5c91bb37f6f"
 metafile = true
