@@ -1245,10 +1245,6 @@ file = "config/highlighter-common.toml"
 hash = "a831f1fd23759f5669f9ac9fd82fd7b49d372359592a63a2b3142ddfdf1f2043"
 
 [[files]]
-file = "config/humancompanions-common.toml"
-hash = "ca36b3367a1884654763ec33390c18ac7ae7a89010a6b0ea52b974d373c6e89f"
-
-[[files]]
 file = "config/infernalexp-client.toml"
 hash = "f5f5e5a25aab6f2beb650b3745060ff9d1a3be49ab10803cef01bac6d9fcd0ea"
 
@@ -1505,10 +1501,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/Villager_King_the_Peacekeeper.zip"
-hash = "64527adb2ab00ed159b03455777181a4ab3ca1449c3c20a5ee77def13c9935b4"
-
-[[files]]
 file = "config/paxi/datapacks/ctov/data/ctov/worldgen/configured_structure_feature/large/village_beach.json"
 hash = "63dff83f656a5659f374c70273b3ec76066ad780933a7e7faad599b196d7d70a"
 
@@ -1711,14 +1703,6 @@ hash = "366cde4534a26e2e79d9832c51fb2630e0b42a0687a1137e1fd40e0f97d46fe5"
 [[files]]
 file = "config/paxi/datapacks/ctov/pack.mcmeta"
 hash = "d8dbd125a9367cf39d02422024e9a0d0940f47e36ef696d6c971ffd78d0bb600"
-
-[[files]]
-file = "config/paxi/datapacks/humancompanions-structure/data/humancompanions/worldgen/structure_set/companion_house.json"
-hash = "b8dbd4778786eda3cdc82619fc1565e8f6094e734942286e616b7269cd3714c4"
-
-[[files]]
-file = "config/paxi/datapacks/humancompanions-structure/pack.mcmeta"
-hash = "a5d9e33648085291c7125206e53e645ce4d1ca3afab2eef45c1e1340ebb52b0b"
 
 [[files]]
 file = "config/paxi/datapacks/idas-structure/data/idas/loot_tables/chests/abandonedhouse/abandonedhouse.json"
@@ -2071,102 +2055,6 @@ hash = "3dd79959a2e617bff63d89ab504f5366b34f08e4e71492eb39baf81b999df6a1"
 [[files]]
 file = "config/paxi/datapacks/minecolonies/pack.mcmeta"
 hash = "b6aee53e60430eca218a9bd9b5b16562c4497542a32510d9bf97e3df172d45cf"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/city_nether.json"
-hash = "662e9542755d91cd02ad50bb6f2eff3adb690ec650a078bda2584ccff6db8179"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/city_overworld.json"
-hash = "d096024f714ec9eac8311374b1cce88fb03e459e20baa4b6860716fb566168d2"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/ruined_portal_end.json"
-hash = "3fb7d50ff617f1474b087f1d67e34e7c7033c26af764aa929ac6ac63806ea98e"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/ruins_land_cold.json"
-hash = "c25385b744a3ebd9908c2956aa00885945f39c32608408e88690d940cdb9b22e"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/ruins_land_hot.json"
-hash = "fd1c3e7de7906c123349f25ca80c56800befcc8b111b0ee0804441335412fc99"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/ruins_land_icy.json"
-hash = "16893df32da884e427fca08c36eec00019e52ce16e174ccfd0eaaed282ed20ce"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/ruins_land_warm.json"
-hash = "9978e98c71473ccfdb2d126625093be9050b53f0ac45cb94e2cafbfaa8bd6407"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/ruins_nether.json"
-hash = "85f42f6b530da44e89a60c6ca398e23b3fe5495925e7f38bfde3a222b9613094"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_badlands.json"
-hash = "470196b53fb9c9d958adfb9f69e50281716536e4d29a89cb4c354eeee2dec6dc"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_birch.json"
-hash = "0ecffbec8346dacb82b4653d47a55f8d7a12429daf1ee20e6f6dfa971e48af9f"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_crimson.json"
-hash = "1b41a751fb1d3fef28e8e36332944e6a0987e23a6aaaabc5ecc9fe6b6f9a3afb"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_dark_forest.json"
-hash = "9a4dfa54d558277873728b6bcd8088ef497c388dd8231ea921bf9900432ddd8b"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_giant_taiga.json"
-hash = "769a42cd4676a32c3b2dd6a497f9eaf9bd926d5746bca167320d32eff8f9ccdc"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_jungle.json"
-hash = "699f2cd2ef3b29f8ba53cb6fdb80c02c7655c3deed23eddc3986a5719a17139a"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_mountains.json"
-hash = "a1d7250a6ed31349a5f5d6382236aec992c0cc39af49635f6a6ef8d6fa552b7b"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_mushroom.json"
-hash = "bb536b47fe34bbff2b3dfdab788685c3a564790ae2f4e41ef729fb529ec6cfa5"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_oak.json"
-hash = "f8fb55cea6c40679a5a94b1a305373be0dedf87230d4a496d1e6c1e87d9915ae"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_swamp.json"
-hash = "d14a28c5237efd872576c39f336ea765f31d3d6ef7ff0788eaa26c7d681268eb"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/configured_structure_feature/village_warped.json"
-hash = "73c61d8c089383df48afa4b153d67fd67a4f5348266494ebf6b221ce44301f76"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/structure_set/cities_overworld.json"
-hash = "3df2acdbbea2219bce419fadcc18d1d302d262e03bf08984b895b493d84dea4e"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/structure_set/villages_mushroom.json"
-hash = "5d3d9b21b6cefd1fded0e7843f84db7532e4bf8d5500abb2282684bb2b02d6e3"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/structure_set/villages_nether.json"
-hash = "4d2c8cce398455266f973b6c427b590ad2e4eae2a34950de9fa7b20e27c89694"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/data/repurposed_structures/worldgen/structure_set/villages_overworld.json"
-hash = "549567f20f75a3543551e05483e99f805a3453998b583d863b07a6e1597fe9b7"
-
-[[files]]
-file = "config/paxi/datapacks/repurpos-villages/pack.mcmeta"
-hash = "12c14e2b99cf27b425ed3383b1a0a14c50a8f9fda76bb2bedbe6a50308f81229"
 
 [[files]]
 file = "config/paxi/datapacks/simplehats/data/simplehats/loot_tables/inject/hatbag_entity.json"
