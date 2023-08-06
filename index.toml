@@ -3527,7 +3527,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm.pw.toml"
-hash = "038e5127cabdd1b7d2523cde4ae5e3101e8d7ca4a884cc56c5462f93dc1d39d2"
+hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
 metafile = true
 
 [[files]]
