@@ -3680,7 +3680,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
+hash = "605f32ad7d8999c3bbd4af14926ef0f8566142b73d4d0e8a732e6eef93a95ac6"
 metafile = true
 
 [[files]]
@@ -4060,7 +4060,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "999d5e17e115dafdb7d746ac1b1fe6bcf21ae5c74cec65cf6ef5f27fbd5956e0"
+hash = "2352a706737505a65c7f3fe4a62c9041cfa557368e50fb08d1835766d4ac9bd6"
 metafile = true
 
 [[files]]
@@ -4269,6 +4269,11 @@ hash = "5bef20978479c85552d8bac40fbd3bf75680c919f54c227ebece2f8967bf74e2"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "876452c253d68cd71df35dfcb9dd4438ebb5c2470c09b01ed19a16fd37f46436"
+metafile = true
+
+[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "6c1ec65fbb2ede2953e410e07735ddfe33474a294e07586d874c23ea31ecddd1"
 metafile = true
@@ -4290,7 +4295,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "e7c98953cef9e9fd975c71acd8d6766b2ac940c2536b777ac09c0652efd2df2c"
+hash = "69d06ddacec01d95fa77be07b7303b7cd10362dca922d13509649cb9ef8dbdc5"
 metafile = true
 
 [[files]]
