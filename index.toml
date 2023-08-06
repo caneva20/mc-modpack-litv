@@ -3555,7 +3555,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
+hash = "c79b4ff9b5ce619278bc4704960d4cbb78d943153f4a7560a84b000a64b2c019"
 metafile = true
 
 [[files]]
@@ -4030,7 +4030,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "fe906b3f4de4fe6c7313609f5c7cc44e733cd0e82cf74b6dbce52440bc7beccc"
+hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
 metafile = true
 
 [[files]]
