@@ -3724,6 +3724,11 @@ hash = "b9f7338b60d55a0df5c0d5f59d1c72d7e723626a8b990657273f74f81506f4ac"
 metafile = true
 
 [[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "05694a12bdb096f0c7f05b48be626c3bdb8c17fd903f6bbd418fd7fcac5c4992"
+metafile = true
+
+[[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "593b46a6a0179e427679f90da1d744f2870f844628725da803f9d640023d4c77"
 metafile = true
