@@ -2657,10 +2657,6 @@ file = "defaultconfigs/constructionwand-server.toml"
 hash = "8bfbd4c0283ab896479590f1c9d2203494c72e6742a5de00ee8cd24ae7703031"
 
 [[files]]
-file = "defaultconfigs/corpse-server.toml"
-hash = "09b9e4c7add97afd272feb9f7595228fca449d99d0996589da1b29c31c79d96a"
-
-[[files]]
 file = "defaultconfigs/create-server.toml"
 hash = "8a3296e5bb398ba78c010e708e1cda058a688e7942bf40aaa4f1f135e9d2db09"
 
@@ -2687,14 +2683,6 @@ hash = "02b09f57d86c007cdca758ebb5ad940f9c79d134e44bcfb82dab37c99721955c"
 [[files]]
 file = "defaultconfigs/ftbchunks.snbt"
 hash = "d9596c6b06f82f388d1f3e2e29c3694ee38ea5fc76d4df1359c415a527aecc28"
-
-[[files]]
-file = "defaultconfigs/ftbchunks/client-config.snbt"
-hash = "6d5592c9b61ca156d7901a1b2a626d9c1f5401ec6988e73fe01fab57c7df2260"
-
-[[files]]
-file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
-hash = "2af818b1d3eca5595a6ba711429838a3176d2367367f08e1b2dad86fac01e1f7"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
