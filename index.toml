@@ -3726,11 +3726,6 @@ hash = "b09ca9767a82b54c1ac0e02670283356dd25fd77aae16b54ed15c6827eaa4676"
 metafile = true
 
 [[files]]
-file = "mods/ftb-essentials-forge.pw.toml"
-hash = "934fef6cf30a00fd29c8e05631a45fafad0e3ed0fd237d0d0c1c98816c7e4820"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "d407624e38c852ade10d8bf4de6949bc935d6d7a23079f5602986296c21ac1c6"
 metafile = true
@@ -3738,11 +3733,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "b9f7338b60d55a0df5c0d5f59d1c72d7e723626a8b990657273f74f81506f4ac"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "1c1e5702853d4c4245b4a47f5899e03c073baa20db70a8b0fb2c1e2fda9e0c52"
 metafile = true
 
 [[files]]
