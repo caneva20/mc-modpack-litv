@@ -3554,6 +3554,11 @@ hash = "553ea26fa06c17148f9906484f987dbb38846e26de1fad7110319ee033ce75dc"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "80379f0a04b6e508313fb2ebfa1f14defc2ebcc9f3d008fbc7fd9848bdd9380a"
+metafile = true
+
+[[files]]
 file = "mods/doggy-talents.pw.toml"
 hash = "d282e66c2be2ab0ae1c3a06af9140e3a4c92bd2060e95cd3c4d98bf34b73a9b7"
 metafile = true
