@@ -3234,11 +3234,6 @@ hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
 metafile = true
